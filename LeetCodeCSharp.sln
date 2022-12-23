@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeLinkedList", "PalindromeLinkedList\PalindromeLinkedList.csproj", "{1555C181-0BFB-4D97-A2E5-A35254A1289B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindPivotIndex", "FindPivotIndex\FindPivotIndex.csproj", "{C712BD52-F9B4-4C05-8002-836AEA9E759C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindPivotIndex", "FindPivotIndex\FindPivotIndex.csproj", "{C712BD52-F9B4-4C05-8002-836AEA9E759C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "205. Isomorphic Strings", "205. Isomorphic Strings\205. Isomorphic Strings.csproj", "{9A0095B1-EAD3-452D-87EB-F5DF43D65389}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{C712BD52-F9B4-4C05-8002-836AEA9E759C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C712BD52-F9B4-4C05-8002-836AEA9E759C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C712BD52-F9B4-4C05-8002-836AEA9E759C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A0095B1-EAD3-452D-87EB-F5DF43D65389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A0095B1-EAD3-452D-87EB-F5DF43D65389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A0095B1-EAD3-452D-87EB-F5DF43D65389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A0095B1-EAD3-452D-87EB-F5DF43D65389}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
